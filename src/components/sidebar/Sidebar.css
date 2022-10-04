@@ -1,0 +1,9 @@
+.side{
+    position: fixed;
+    background-color: rgb(19, 182, 241);
+    bottom:1.4%;
+    height: 90vh;
+    width: 20vw;
+    font-size: x-large;
+    
+}
